@@ -3,5 +3,9 @@
 
 nwatch is a handy tool for host discovery, portscanning and operating system fingerprinting.
 
-**watch demo **
-https://www.youtube.com/watch?v=LC5WwzPYYb0
+###### Requirements
+* nmap (https://pypi.python.org/pypi/python-nmap)
+* scapy (http://www.secdev.org/projects/scapy/)
+* colorama (https://pypi.python.org/pypi/colorama)
+
+watch here https://www.youtube.com/watch?v=LC5WwzPYYb0
