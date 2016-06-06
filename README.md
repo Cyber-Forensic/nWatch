@@ -8,4 +8,4 @@ nwatch is a handy tool for host discovery, portscanning and operating system fin
 * scapy (http://www.secdev.org/projects/scapy/)
 * colorama (https://pypi.python.org/pypi/colorama)
 
-watch here https://www.youtube.com/watch?v=LC5WwzPYYb0
+watch demo here : https://www.youtube.com/watch?v=LC5WwzPYYb0
