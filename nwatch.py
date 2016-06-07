@@ -94,7 +94,6 @@ def postAS(hostslist):
 				print "["+Fore.YELLOW+"*"+Style.RESET_ALL+"] Warning : couldn't detect to OS"
 
 	except Exception, ex:
-		print ex
 		print "["+Fore.RED+"-"+Style.RESET_ALL+"] Error in OS fingerprinting, continuing..."
 
 if __name__ == '__main__':
