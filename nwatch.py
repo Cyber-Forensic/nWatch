@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys
 import logging
 from colorama import Fore, init, Style
