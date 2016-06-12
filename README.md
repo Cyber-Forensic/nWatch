@@ -11,11 +11,13 @@
 
 nWatch is a handy tool for host discovery, portscanning and operating system fingerprinting.
 
+
 ###### Requirements
 * [nmap](https://pypi.python.org/pypi/python-nmap)
 * [scapy](http://www.secdev.org/projects/scapy/)
 * [colorama](https://pypi.python.org/pypi/colorama)
 * [ctypes](https://pypi.python.org/pypi/ctypes/1.0.2)
+
 
 ###### Installation and execution
 Install the requirements
@@ -25,6 +27,7 @@ Then you can download nWatch by cloning the [Git](https://github.com/suraj-root/
     cd nWatch/
     python nwatch.py 
     
+
 ###### Demo
 NEW VERSION LINK
 https://www.youtube.com/watch?v=LC5WwzPYYb0(OLD version)
