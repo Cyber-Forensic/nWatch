@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/Version-1.1-orange.svg)](https://github.com/suraj-root/nWatch/blob/master/nwatch.py)
 
 
-![alt tag](http://s33.postimg.org/p27tkdo9b/nwatch.png)
+![alt tag](http://s33.postimg.org/4za23nuhb/nwatch2.png)
 
 
 nWatch is a handy tool for host discovery, portscanning and operating system fingerprinting.
