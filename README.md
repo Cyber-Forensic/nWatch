@@ -27,7 +27,3 @@ Then you can download nWatch by cloning the [Git](https://github.com/suraj-root/
     cd nWatch/
     python nwatch.py 
     
-
-###### Demo
-NEW VERSION LINK
-https://www.youtube.com/watch?v=LC5WwzPYYb0(OLD version)
