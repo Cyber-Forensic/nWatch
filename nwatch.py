@@ -223,9 +223,6 @@ def postAS(hostslist):
 	macs = [mac for x, mac in hostslist.items()]
 	try:
    		nm = nmap.PortScanner()         
-	except nmap.PortScannerError:
-    		print("["+Fore.RED+"-"+Style.RESET_ALL+'] Nmap not found', sys.exc_info()[0])
-    		sys.exit(0)
 	except Exception, ex:
 		try:
 			print "["+Fore.RED+"-"+Style.RESET_ALL+"] Exception('%s') occured\n\t%s-> Errno : %d\n\t-> Error : %s"%(type(ex).__name__,Style.DIM,ex.args[0],ex.args[1])
