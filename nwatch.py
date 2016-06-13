@@ -2,7 +2,7 @@
 
 #GNU GPLv3
 # nWatch.py - handy tool for host discovery, portscanning and operating system fingerprinting.
-#    Copyright (C) <2014>  <M U Suraj>
+#    Copyright (C) <2016>  <M U Suraj>
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
