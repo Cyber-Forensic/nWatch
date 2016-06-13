@@ -1,6 +1,6 @@
 # nWatch  
 
-[![Python 2.6|2.7](https://img.shields.io/badge/Python-2.7.*-blue.svg)](https://www.python.org/downloads/)
+[![Python 2.6|2.7](https://img.shields.io/badge/Python-2.6.*--2.7.*-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Version](https://img.shields.io/badge/Version-1.2-orange.svg)](https://github.com/suraj-root/nWatch/blob/master/nwatch.py)
 [![Twitter](https://img.shields.io/badge/twitter-%40Suraj__root-0099e5.svg)](https://twitter.com/Suraj_root)
